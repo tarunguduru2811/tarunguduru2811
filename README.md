@@ -1,4 +1,4 @@
-![](https://github.com/tarunguduru2811/tarunguduru2811/blob/master/Untitled-1.jpg)
+![](https://github.com/tarunguduru2811/tarunguduru2811/blob/main/Untitled-1.jpg)
 
 <h1 align="center">Hi 👋, I'm Tarun Guduru</h1>
 <h3 align="center">Full Stack Developer</h3>
