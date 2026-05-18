@@ -18,14 +18,14 @@
 <table width="100%">
 <tr>
 <td>
-<ul>
-<li>✅ Have 1+ Year of work experience in the software industry</li>
-<li>🔭 Currently working as a Software Development Engineer (SDE)</li>
-<li>✨ Learning AWS & DevOps practices</li>
-<li>🌱 Exploring React and modern web technologies</li>
-<li>⚙️ Learning DevOps tools like Docker, CI/CD, Ansible,k8s,terraform and cloud deployment workflows</li>
-<li>👨‍💻 All of my projects are available at <a href="https://tarunguduru.vercel.app/">Portfolio</a></li>
-</ul>
+
+✅ Have 1+ Year of work experience in the software industry <br/>
+🔭 Currently working as a Software Development Engineer (SDE) <br/>
+✨ Learning AWS & DevOps practices <br/>
+🌱 Exploring React and modern web technologies <br/>
+⚙️ Learning DevOps tools like Docker, CI/CD, Ansible,k8s,terraform and cloud deployment workflows <br/>
+👨‍💻 All of my projects are available at <a href="https://tarunguduru.vercel.app/">Portfolio</a> <br/>
+
 </td>
 <td>
 <img width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
